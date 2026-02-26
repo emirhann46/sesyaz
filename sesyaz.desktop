@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sesyaz
+Comment=Sesle yaz — Sesinizi yazıya hızlıca dönüştürün
+Exec=python3 -m sesyaz
+Icon=sesyaz
+Categories=Utility;
+StartupNotify=false
+X-KDE-StartupNotify=false

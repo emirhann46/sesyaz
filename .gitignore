@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# IDE / AI tooling
+.maestro/
+.claude/
+
+# Keep internal docs out of public repo
+project.prd.md
+CLAUDE.md
