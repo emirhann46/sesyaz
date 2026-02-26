@@ -31,7 +31,7 @@
 ## Kurulum
 
 ```bash
-git clone https://github.com/yourusername/sesyaz.git
+git clone https://github.com/emirhann46/sesyaz.git
 cd sesyaz
 bash install.sh
 ```
